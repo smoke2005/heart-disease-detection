@@ -58,5 +58,4 @@ The Heart Attack Risk Prediction system aims to classify patients based on their
 ## Compilers Used
 - Python 3.x using Jupyter Notebook
 
-## Acknowledgements
-This project was developed as a part of [UCS2202 – Foundations of Data Science] in the Second Semester of the B.E. Computer Science and Engineering program offered by SSN Institutions.
+
